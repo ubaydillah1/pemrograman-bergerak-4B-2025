@@ -1,11 +1,8 @@
 dynamic studentInfo() {
-  // TODO 1
-
   var name = "Ubay Dillah";
   var favNumber = 7;
   var isPraktikan = true;
 
-  // End of TODO 1
   return [name, favNumber, isPraktikan];
 }
 
@@ -17,8 +14,6 @@ dynamic circleArea(num r) {
 
     double result = pi * r * r;
     return result;
-
-    // End of TODO 2
   }
 }
 
